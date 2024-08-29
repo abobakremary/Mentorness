@@ -38,8 +38,7 @@ This project is part of an internship aimed at conducting a comprehensive analys
 
 ## **Data & Tools**
 ### **Data Sources:**
-- **Dataset:** Mentorness.
-- **Features:** Crash dates, locations, operators, flight details, aircraft types, fatalities, and other relevant information.
+- **Dataset:** Mentorness Data Analysis Internship.
 
 ### **Tools Used:**
 - **Data Cleaning:** Excel, ChatGPT for automated data verification.
