@@ -1,7 +1,3 @@
-Here's the updated write-up with the interactive Tableau dashboard link included:
-
----
-
 # **Airplane Crashes Analysis (1908-2023)**
 
 [![Screenshot 2024-08-30 004152](https://github.com/user-attachments/assets/f28b94bb-ff45-4228-8873-1200820f6de0)](https://public.tableau.com/app/profile/abobakr.emary/vizzes)
